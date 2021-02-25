@@ -1,0 +1,112 @@
+{
+	"level_1": {
+		"stars": "5",
+		"leaderboard": [
+			{
+				"id": 1,
+				"name": "Derek",
+				"time": 6.1
+			},
+			{
+				"id": 6,
+				"name": "Kork21",
+				"time": 12.1
+			},
+			{
+				"id": 64,
+				"name": "Kitty",
+				"time": 18
+			},
+			{
+				"id": 3,
+				"name": "Lord1",
+				"time": 23.4
+			}
+		]
+	},
+	"level_2": {
+		"stars": "4",
+		"leaderboard": [
+			{
+				"id": 64,
+				"name": "Kitty",
+				"time": 2.3
+			},
+			{
+				"id": 3,
+				"name": "Lord1",
+				"time": 8.5
+			},
+			{
+				"id": 102,
+				"name": "Adam",
+				"time": 12.1
+			},
+			{
+				"id": 3,
+				"name": "Lord1",
+				"time": 23.4
+			},
+			{
+				"id": 31,
+				"name": "Mama",
+				"time": 48.2
+			},
+			{
+				"id": 74,
+				"name": "AAAAAAAAAAAAAAAAAA",
+				"time": 51.8
+			},
+			{
+				"id": 51,
+				"name": "Nag12Gan",
+				"time": 60.1
+			},
+			{
+				"id": 52,
+				"name": "Killer",
+				"time": 300.2
+			}
+		]
+	},
+	"level_3": {
+		"stars": "5",
+		"leaderboard": [
+			{
+				"id": 60,
+				"name": "Nord",
+				"time": 26.3
+			},
+			{
+				"id": 3,
+				"name": "Lord1",
+				"time": 26.4
+			},
+			{
+				"id": 242,
+				"name": "Lizzy",
+				"time": 30.3
+			},
+			{
+				"id": 8004,
+				"name": "TomTom",
+				"time": 44.3
+			},
+			{
+				"id": 5,
+				"name": "Test",
+				"time": 120.3
+			}
+		]
+	},
+	"level_4": {
+		"stars": "2",
+		"leaderboard": [
+			{
+				"id": 1111,
+				"name": "Korny",
+				"time": 30
+			}
+		]
+	}
+}
