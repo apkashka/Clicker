@@ -44,6 +44,7 @@ public class ClickerView : MonoBehaviour
         _background.sprite = _model.BackGroundSprite;
         _targetView.UpdateSprite(_model.TargetSprite);
         _targetView.UpdateScale(Vector3.one);
+        _bonusView.gameObject.SetActive(false);
         _goalText.text = _model.ClicksToWin.ToString();
 
         foreach (var bonus in _activeBonusesView)

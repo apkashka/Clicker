@@ -39,7 +39,10 @@ public class ClickerModel
             halfSize *= SpriteScale;
             var finalPosition = new Vector2(Random.Range(Borders.x + halfSize.x, Borders.x + Borders.width - halfSize.x),
                                             Random.Range(Borders.y + halfSize.y, Borders.y + Borders.height - halfSize.y));
-            _currentPosition = finalPosition;
+            if (!bonusPosition)
+            {
+                _currentPosition = finalPosition;
+            }
         }
         return _currentPosition;
     }
